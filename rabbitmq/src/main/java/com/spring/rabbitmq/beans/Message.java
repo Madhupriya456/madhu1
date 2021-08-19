@@ -31,6 +31,6 @@ public Date getMeassageDate() {
 public void setMeassageDate(Date meassageDate) {
 	this.meassageDate = meassageDate;
 }
-   
+ //this bean class  
    
 }
